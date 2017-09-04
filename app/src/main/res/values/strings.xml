@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assistencia App</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="voltar">Voltar</string>
+</resources>
